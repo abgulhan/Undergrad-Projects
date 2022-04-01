@@ -1,0 +1,9 @@
+make sure you have numpy, sklearn and pandas installed for python3.
+
+Run the program using the command:  python3 ./file_final.py <-t or -s>
+
+use -s for predicting test file
+use -t for viewing test accuracy (train and test selected randomly so each run has different results)
+
+input file names:  'train.csv' and 'test.csv'
+output is made to 'submission.csv'
